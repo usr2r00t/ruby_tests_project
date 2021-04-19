@@ -38,9 +38,6 @@ describe "sum" do
   end
 end
 
-# Let's write some tests !
-# we'll show you the first, you will write the others :)
-
 describe "#multiply" do
 
   it "multiplies two numbers" do
@@ -48,10 +45,8 @@ describe "#multiply" do
   end
 
   it "multiplies two other numbers"
-    # one other test here, don't forget do end ;)
 
   it "multiplies two other numbers, one of them being 0"
-    # one last test, with 0 in it
 
 end
 
@@ -59,7 +54,6 @@ describe "#power" do
   it "raises one number to the power of another number"
 end
 
-# http://en.wikipedia.org/wiki/Factorial
 describe "#factorial" do
   it "computes the factorial of 0"
   it "computes the factorial of 1"
